@@ -1,0 +1,1 @@
+# basic-angular-froala-wysiwyg-textEditor
